@@ -1,0 +1,610 @@
+{
+  "id": "governor",
+  "title": "Texas Governor",
+  "office": "Governor of Texas",
+  "electionDate": "2026-11-03",
+  "lastUpdated": "2026-10-27",
+  "blurb": "Compare Greg Abbott and Gina Hinojosa on the issues that shape everyday life in Texas. Every stance links to sources.",
+  "candidates": [
+    {
+      "id": "abbott",
+      "name": "Greg Abbott",
+      "party": "R",
+      "website": "https://www.gregabbott.com/"
+    },
+    {
+      "id": "hinojosa",
+      "name": "Gina Hinojosa",
+      "party": "D",
+      "website": "https://ginafortexas.com/"
+    }
+  ],
+  "issues": [
+    {
+      "id": "border",
+      "title": "Border & immigration",
+      "summary": "State role in border security, migrant arrests, and cooperation with federal immigration policy.",
+      "whyItMatters": "Texas has spent billions on Operation Lone Star and related border measures that affect communities, budgets, and civil liberties.",
+      "axisLow": "Emphasize state enforcement and physical barriers",
+      "axisHigh": "Emphasize federal accountability and less state militarization"
+    },
+    {
+      "id": "abortion",
+      "title": "Abortion",
+      "summary": "State abortion law, exceptions, and enforcement.",
+      "whyItMatters": "Texas maintains one of the nation\u2019s most restrictive abortion frameworks after Roe was overturned.",
+      "axisLow": "Keep or tighten current restrictions",
+      "axisHigh": "Restore broader legal access"
+    },
+    {
+      "id": "education",
+      "title": "Public education & school choice",
+      "summary": "Funding for neighborhood public schools, vouchers, testing, and state oversight.",
+      "whyItMatters": "Texas public schools educate millions of students and are a top local employer in many counties.",
+      "axisLow": "Expand vouchers and state accountability pressure",
+      "axisHigh": "Prioritize public schools and roll back vouchers"
+    },
+    {
+      "id": "property-taxes",
+      "title": "Property taxes & affordability",
+      "summary": "Homestead taxes, appraisal caps, and proposals to put money back in household budgets.",
+      "whyItMatters": "Housing and tax costs are among the most common pocketbook complaints for Texas homeowners and renters.",
+      "axisLow": "Cut school property taxes via structural reform",
+      "axisHigh": "Direct household relief funded from state reserves"
+    },
+    {
+      "id": "healthcare",
+      "title": "Health care access",
+      "summary": "Uninsured rates, children\u2019s coverage, Medicaid expansion debates, and insurance rules.",
+      "whyItMatters": "Texas has long had among the highest uninsured rates in the U.S., including for children.",
+      "axisLow": "Market-focused cost cuts without Medicaid expansion",
+      "axisHigh": "Guarantee children\u2019s coverage and expand access"
+    },
+    {
+      "id": "energy",
+      "title": "Energy costs & the grid",
+      "summary": "Electricity bills, data-center load, ERCOT reliability, and who pays for new infrastructure.",
+      "whyItMatters": "After Winter Storm Uri and rapid data-center growth, power bills and reliability remain front-page issues.",
+      "axisLow": "Open municipal monopolies to competition; industry growth first",
+      "axisHigh": "Freeze residential rates; make large users pay their way"
+    },
+    {
+      "id": "guns",
+      "title": "Guns & public safety",
+      "summary": "Firearm laws, carry rules, and approaches to violent crime.",
+      "whyItMatters": "Texas has expansive gun rights laws alongside ongoing debates over school and community safety.",
+      "axisLow": "Protect and expand gun rights",
+      "axisHigh": "Support stronger firearm safeguards"
+    },
+    {
+      "id": "voting",
+      "title": "Voting & elections",
+      "summary": "Election administration, access to the ballot, and election security measures.",
+      "whyItMatters": "State election rules shape who can vote easily and how results are administered.",
+      "axisLow": "Prioritize tighter election security rules",
+      "axisHigh": "Prioritize broader ballot access"
+    }
+  ],
+  "stances": [
+    {
+      "candidateId": "abbott",
+      "issueId": "border",
+      "position": -2,
+      "summary": "Supports expansive state border enforcement through Operation Lone Star, including barriers, state arrests, and cooperation with federal deportation efforts.",
+      "sources": [
+        {
+          "title": "Texas governor 2026 guide",
+          "publisher": "Texas Tribune",
+          "url": "https://www.texastribune.org/2026/09/25/texas-governor-2026-guide-abbott-hinojosa/",
+          "date": "2026-09-25",
+          "type": "news"
+        },
+        {
+          "title": "Issues overview",
+          "publisher": "Greg Abbott campaign",
+          "url": "https://www.gregabbott.com/policy/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        }
+      ]
+    },
+    {
+      "candidateId": "hinojosa",
+      "issueId": "border",
+      "position": 1,
+      "summary": "Criticizes Abbott-era border spending priorities and argues for practical border policy with stronger federal accountability rather than indefinite state militarization; campaign focus is affordability and schools more than border theater.",
+      "sources": [
+        {
+          "title": "Face the Nation transcript",
+          "publisher": "CBS News",
+          "url": "https://www.cbsnews.com/news/texas-ginojosa-texas-democrat-face-the-nation-transcript-10-25-2026/",
+          "date": "2026-10-25",
+          "type": "news"
+        },
+        {
+          "title": "Campaign priorities",
+          "publisher": "Gina for Texas",
+          "url": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        }
+      ]
+    },
+    {
+      "candidateId": "abbott",
+      "issueId": "abortion",
+      "position": -2,
+      "summary": "Has signed and defended Texas abortion restrictions after Roe fell; endorsed by anti-abortion groups including Susan B. Anthony List.",
+      "sources": [
+        {
+          "title": "Campaign endorsements / policy page",
+          "publisher": "Greg Abbott campaign",
+          "url": "https://www.gregabbott.com/policy/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        },
+        {
+          "title": "Governor race overview",
+          "publisher": "Texas Tribune",
+          "url": "https://www.texastribune.org/2026/09/25/texas-governor-2026-guide-abbott-hinojosa/",
+          "date": "2026-09-25",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "candidateId": "hinojosa",
+      "issueId": "abortion",
+      "position": 2,
+      "summary": "Supports restoring abortion protections in Texas and removing criminal penalties tied to the current ban framework.",
+      "sources": [
+        {
+          "title": "Candidate questionnaire",
+          "publisher": "Amarillo Globe-News",
+          "url": "https://www.amarillo.com/story/news/politics/elections/candidate-profiles/2026/02/15/gina-hinojosa-2026-texas-democratic-primary-candidate-questionnaire-for-texas-governor/88584933007/",
+          "date": "2026-02-15",
+          "type": "news"
+        },
+        {
+          "title": "Face the Nation transcript",
+          "publisher": "CBS News",
+          "url": "https://www.cbsnews.com/news/texas-ginojosa-texas-democrat-face-the-nation-transcript-10-25-2026/",
+          "date": "2026-10-25",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "candidateId": "abbott",
+      "issueId": "education",
+      "position": -2,
+      "summary": "Championed private-school vouchers (Legislature dedicated about $1 billion for two years) and pushes classroom screen limits, tougher teacher-misconduct penalties, and directing 70% of school funding to classroom instruction.",
+      "sources": [
+        {
+          "title": "Education priorities",
+          "publisher": "Texas Tribune",
+          "url": "https://www.texastribune.org/2026/08/27/texas-governor-race-abbott-hinojosa-education/",
+          "date": "2026-08-27",
+          "type": "news"
+        },
+        {
+          "title": "Governor race overview",
+          "publisher": "Texas Tribune",
+          "url": "https://www.texastribune.org/2026/09/25/texas-governor-2026-guide-abbott-hinojosa/",
+          "date": "2026-09-25",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "candidateId": "hinojosa",
+      "issueId": "education",
+      "position": 2,
+      "summary": "Opposes vouchers as diverting public money; pledges to replace Education Commissioner Mike Morath, pause STAAR-based A\u2013F accountability, and restore funding focus to neighborhood public schools.",
+      "sources": [
+        {
+          "title": "Face the Nation transcript",
+          "publisher": "CBS News",
+          "url": "https://www.cbsnews.com/news/texas-ginojosa-texas-democrat-face-the-nation-transcript-10-25-2026/",
+          "date": "2026-10-25",
+          "type": "news"
+        },
+        {
+          "title": "Affordability interview",
+          "publisher": "Texas Public Radio",
+          "url": "https://www.tpr.org/government-politics/2026-10-23/gina-hinojosa-cites-affordability-support-for-public-education-in-bid-for-texas-governor",
+          "date": "2026-10-23",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "candidateId": "abbott",
+      "issueId": "property-taxes",
+      "position": -2,
+      "summary": "Proposes eliminating school district property taxes for homeowners via constitutional amendment, lowering the homestead appraisal cap to 3%, and requiring two-thirds voter approval for local tax increases.",
+      "sources": [
+        {
+          "title": "Property tax reform plan",
+          "publisher": "Greg Abbott campaign",
+          "url": "https://www.gregabbott.com/policy/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        }
+      ]
+    },
+    {
+      "candidateId": "hinojosa",
+      "issueId": "property-taxes",
+      "position": 2,
+      "summary": "Proposes a one-time $1,500 household payment drawn from excess Rainy Day Fund balances, plus property-tax relief tied to adequately funding schools so districts are not forced to raise local rates.",
+      "sources": [
+        {
+          "title": "Money in Your Pocket",
+          "publisher": "Gina for Texas",
+          "url": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        },
+        {
+          "title": "Candidate questionnaire",
+          "publisher": "Amarillo Globe-News",
+          "url": "https://www.amarillo.com/story/news/politics/elections/candidate-profiles/2026/02/15/gina-hinojosa-2026-texas-democratic-primary-candidate-questionnaire-for-texas-governor/88584933007/",
+          "date": "2026-02-15",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "candidateId": "abbott",
+      "issueId": "healthcare",
+      "position": -1,
+      "summary": "Focuses on lowering premiums and out-of-pocket costs through an Essential Benefits plan and capped co-pays for some medications, without campaigning on Medicaid expansion.",
+      "sources": [
+        {
+          "title": "Healthcare cost proposals",
+          "publisher": "Greg Abbott campaign",
+          "url": "https://www.gregabbott.com/policy/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        }
+      ]
+    },
+    {
+      "candidateId": "hinojosa",
+      "issueId": "healthcare",
+      "position": 2,
+      "summary": "Centers on guaranteeing quality health care for every Texas child, supports Medicaid expansion as a means, and backs bans on bad-faith insurance denials.",
+      "sources": [
+        {
+          "title": "Face the Nation transcript",
+          "publisher": "CBS News",
+          "url": "https://www.cbsnews.com/news/texas-ginojosa-texas-democrat-face-the-nation-transcript-10-25-2026/",
+          "date": "2026-10-25",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "candidateId": "abbott",
+      "issueId": "energy",
+      "position": -1,
+      "summary": "Supports retail competition against municipal utility monopolies to lower bills; more recently paused new data-center grid connections pending audit and backs requiring data centers to fund their own infrastructure.",
+      "sources": [
+        {
+          "title": "Energy cost plan",
+          "publisher": "Greg Abbott campaign",
+          "url": "https://www.gregabbott.com/policy/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        },
+        {
+          "title": "Governor race overview",
+          "publisher": "Texas Tribune",
+          "url": "https://www.texastribune.org/2026/09/25/texas-governor-2026-guide-abbott-hinojosa/",
+          "date": "2026-09-25",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "candidateId": "hinojosa",
+      "issueId": "energy",
+      "position": 2,
+      "summary": "Would direct the PUC to freeze residential rates until large users like data centers pay their own infrastructure costs; criticizes Uri-era gas company windfalls and consumer bill impacts.",
+      "sources": [
+        {
+          "title": "Freeze the Rates",
+          "publisher": "Gina for Texas",
+          "url": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        },
+        {
+          "title": "KBTX interview",
+          "publisher": "KBTX",
+          "url": "https://www.kbtx.com/2026/10/26/democratic-gubernatorial-challenger-gina-hinojosa-speaks-with-kbtx-terafab-schools-flock-cameras/",
+          "date": "2026-10-26",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "candidateId": "abbott",
+      "issueId": "guns",
+      "position": -2,
+      "summary": "Campaign messaging emphasizes public safety through tougher bail and prosecution while Texas under his tenure has maintained expansive gun-carry laws; protecting gun rights is a stated Republican priority.",
+      "sources": [
+        {
+          "title": "Republican candidate overview",
+          "publisher": "The Prospector",
+          "url": "https://www.theprospectordaily.com/2026/10/20/2026-midterms-republican-candidates/",
+          "date": "2026-10-20",
+          "type": "news"
+        },
+        {
+          "title": "Public safety proposals",
+          "publisher": "Greg Abbott campaign",
+          "url": "https://www.gregabbott.com/policy/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        }
+      ]
+    },
+    {
+      "candidateId": "hinojosa",
+      "issueId": "guns",
+      "position": 1,
+      "summary": "Has supported stronger firearm safety measures as a Democratic state lawmaker; campaign public materials emphasize schools and affordability more than a detailed new gun platform\u2014position summarized from legislative record context.",
+      "sources": [
+        {
+          "title": "Campaign site",
+          "publisher": "Gina for Texas",
+          "url": "https://ginafortexas.com/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        }
+      ]
+    },
+    {
+      "candidateId": "abbott",
+      "issueId": "voting",
+      "position": -1,
+      "summary": "Has signed and defended Republican-backed election security legislation during his tenure; continues to frame election integrity as a governing priority.",
+      "sources": [
+        {
+          "title": "Governor race overview",
+          "publisher": "Texas Tribune",
+          "url": "https://www.texastribune.org/2026/09/25/texas-governor-2026-guide-abbott-hinojosa/",
+          "date": "2026-09-25",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "candidateId": "hinojosa",
+      "issueId": "voting",
+      "position": 1,
+      "summary": "As a Democratic legislator and nominee, supports broader ballot access and opposes measures Democrats describe as voter suppression; detailed governor-specific voting plank is thinner than education/affordability.",
+      "sources": [
+        {
+          "title": "Campaign site",
+          "publisher": "Gina for Texas",
+          "url": "https://ginafortexas.com/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "issueId": "border",
+      "prompt": "Texas should dial back state-led border militarization and push the federal government to take clearer responsibility.",
+      "options": [
+        {
+          "label": "Strongly disagree",
+          "value": -2
+        },
+        {
+          "label": "Disagree",
+          "value": -1
+        },
+        {
+          "label": "Neutral / unsure",
+          "value": 0
+        },
+        {
+          "label": "Agree",
+          "value": 1
+        },
+        {
+          "label": "Strongly agree",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "issueId": "abortion",
+      "prompt": "Texas should restore broader legal access to abortion.",
+      "options": [
+        {
+          "label": "Strongly disagree",
+          "value": -2
+        },
+        {
+          "label": "Disagree",
+          "value": -1
+        },
+        {
+          "label": "Neutral / unsure",
+          "value": 0
+        },
+        {
+          "label": "Agree",
+          "value": 1
+        },
+        {
+          "label": "Strongly agree",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "issueId": "education",
+      "prompt": "Texas should reverse private-school vouchers and prioritize funding neighborhood public schools.",
+      "options": [
+        {
+          "label": "Strongly disagree",
+          "value": -2
+        },
+        {
+          "label": "Disagree",
+          "value": -1
+        },
+        {
+          "label": "Neutral / unsure",
+          "value": 0
+        },
+        {
+          "label": "Agree",
+          "value": 1
+        },
+        {
+          "label": "Strongly agree",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "issueId": "property-taxes",
+      "prompt": "The state should send direct household relief (for example Rainy Day refunds) rather than focusing mainly on eliminating school property taxes.",
+      "options": [
+        {
+          "label": "Strongly disagree",
+          "value": -2
+        },
+        {
+          "label": "Disagree",
+          "value": -1
+        },
+        {
+          "label": "Neutral / unsure",
+          "value": 0
+        },
+        {
+          "label": "Agree",
+          "value": 1
+        },
+        {
+          "label": "Strongly agree",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "issueId": "healthcare",
+      "prompt": "Texas should guarantee quality health coverage for every child, including via Medicaid expansion if needed.",
+      "options": [
+        {
+          "label": "Strongly disagree",
+          "value": -2
+        },
+        {
+          "label": "Disagree",
+          "value": -1
+        },
+        {
+          "label": "Neutral / unsure",
+          "value": 0
+        },
+        {
+          "label": "Agree",
+          "value": 1
+        },
+        {
+          "label": "Strongly agree",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "issueId": "energy",
+      "prompt": "Residential electric rates should be protected\u2014including freezes\u2014until big users like data centers pay for their own grid costs.",
+      "options": [
+        {
+          "label": "Strongly disagree",
+          "value": -2
+        },
+        {
+          "label": "Disagree",
+          "value": -1
+        },
+        {
+          "label": "Neutral / unsure",
+          "value": 0
+        },
+        {
+          "label": "Agree",
+          "value": 1
+        },
+        {
+          "label": "Strongly agree",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "issueId": "guns",
+      "prompt": "Texas should adopt stronger firearm safety rules than it has today.",
+      "options": [
+        {
+          "label": "Strongly disagree",
+          "value": -2
+        },
+        {
+          "label": "Disagree",
+          "value": -1
+        },
+        {
+          "label": "Neutral / unsure",
+          "value": 0
+        },
+        {
+          "label": "Agree",
+          "value": 1
+        },
+        {
+          "label": "Strongly agree",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "issueId": "voting",
+      "prompt": "Texas election rules should prioritize easier ballot access over additional security restrictions.",
+      "options": [
+        {
+          "label": "Strongly disagree",
+          "value": -2
+        },
+        {
+          "label": "Disagree",
+          "value": -1
+        },
+        {
+          "label": "Neutral / unsure",
+          "value": 0
+        },
+        {
+          "label": "Agree",
+          "value": 1
+        },
+        {
+          "label": "Strongly agree",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}

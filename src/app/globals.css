@@ -1,0 +1,90 @@
+@import "tailwindcss";
+
+:root {
+  --ink: #142033;
+  --ink-muted: #4a5568;
+  --paper: #f3f6fb;
+  --surface: #ffffff;
+  --line: #cfd8e6;
+  --brand: #1f6feb;
+  --brand-deep: #0b4fbf;
+  --brand-soft: #e7f0ff;
+  --republican: #9b2c2c;
+  --democrat: #1d4f91;
+  --warn: #8a5a00;
+  --warn-bg: #fff6e5;
+  --shadow: 0 12px 40px rgba(20, 32, 51, 0.08);
+}
+
+@theme inline {
+  --color-ink: #142033;
+  --color-ink-muted: #4a5568;
+  --color-paper: #f3f6fb;
+  --color-surface: #ffffff;
+  --color-line: #cfd8e6;
+  --color-brand: #1f6feb;
+  --color-brand-deep: #0b4fbf;
+  --color-brand-soft: #e7f0ff;
+  --color-republican: #9b2c2c;
+  --color-democrat: #1d4f91;
+  --color-warn: #8a5a00;
+  --color-warn-bg: #fff6e5;
+  --font-sans: var(--font-body);
+  --font-display: var(--font-display);
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background:
+      radial-gradient(1200px 600px at 10% -10%, #dce9ff 0%, transparent 55%),
+      radial-gradient(900px 500px at 100% 0%, #e8f3ff 0%, transparent 45%),
+      var(--paper);
+    color: var(--ink);
+    font-family: var(--font-body), system-ui, sans-serif;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  ::selection {
+    background: var(--brand-soft);
+  }
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes grow-x {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
+.animate-rise {
+  animation: rise-in 0.45s ease-out both;
+}
+
+.animate-grow {
+  transform-origin: left center;
+  animation: grow-x 0.7s cubic-bezier(0.22, 1, 0.36, 1) both;
+}

@@ -1,0 +1,624 @@
+{
+  "id": "senate",
+  "title": "U.S. Senate \u2014 Texas",
+  "office": "United States Senator",
+  "electionDate": "2026-11-03",
+  "lastUpdated": "2026-10-27",
+  "blurb": "Compare Ken Paxton and James Talarico on federal issues that affect Texas. Every stance links to sources.",
+  "candidates": [
+    {
+      "id": "paxton",
+      "name": "Ken Paxton",
+      "party": "R",
+      "website": "https://www.kenpaxton.com/"
+    },
+    {
+      "id": "talarico",
+      "name": "James Talarico",
+      "party": "D",
+      "website": "https://jamestalarico.com/"
+    }
+  ],
+  "issues": [
+    {
+      "id": "border",
+      "title": "Border & immigration",
+      "summary": "Federal border security, ICE priorities, asylum processing, and pathways to legal status.",
+      "whyItMatters": "Senate votes shape immigration law, funding, and how enforcement works at the Texas border.",
+      "axisLow": "Maximize enforcement and physical barriers",
+      "axisHigh": "Pair security with pathways and ICE limits"
+    },
+    {
+      "id": "abortion",
+      "title": "Abortion",
+      "summary": "Federal abortion policy, medication abortion, and related reproductive care protections.",
+      "whyItMatters": "A U.S. senator can push national bans, exceptions, or Roe-style protections.",
+      "axisLow": "National restrictions / defend bans",
+      "axisHigh": "Codify Roe-style protections"
+    },
+    {
+      "id": "education",
+      "title": "Public education",
+      "summary": "Federal role in schools, vouchers, Pre-K, and special education oversight.",
+      "whyItMatters": "Federal grants and statutes affect Texas classrooms even when schools are mostly state-run.",
+      "axisLow": "Support voucher-style choice; limit federal education role",
+      "axisHigh": "Reject vouchers; expand public Pre-K and supports"
+    },
+    {
+      "id": "economy",
+      "title": "Taxes & cost of living",
+      "summary": "Federal taxes, tariffs, deductions, and affordability proposals.",
+      "whyItMatters": "Senate tax and trade votes show up in grocery, gas, and paycheck math.",
+      "axisLow": "Cut taxes and regulations; align with Trump-era agenda",
+      "axisHigh": "Repeal tariffs; target relief for working families"
+    },
+    {
+      "id": "healthcare",
+      "title": "Health care",
+      "summary": "ACA, pharmaceuticals, and access to care.",
+      "whyItMatters": "Federal insurance law and drug policy affect coverage and costs statewide.",
+      "axisLow": "Oppose ACA; MAHA-style industry scrutiny",
+      "axisHigh": "Expand affordable coverage access"
+    },
+    {
+      "id": "energy",
+      "title": "Energy & climate",
+      "summary": "Oil and gas production, data-center power rules, gas tax, and climate approach.",
+      "whyItMatters": "Energy prices and federal regulation hit Texas producers and household bills.",
+      "axisLow": "Expand fossil production; deregulate",
+      "axisHigh": "Clean energy transition with consumer protections"
+    },
+    {
+      "id": "guns",
+      "title": "Guns",
+      "summary": "Federal firearm regulation and Second Amendment priorities.",
+      "whyItMatters": "Senate confirmation and legislation can expand or constrain federal gun rules.",
+      "axisLow": "Oppose new federal gun restrictions",
+      "axisHigh": "Support stronger federal firearm safeguards"
+    },
+    {
+      "id": "democracy",
+      "title": "Democracy & accountability",
+      "summary": "Money in politics, government transparency, and checks on executive power.",
+      "whyItMatters": "Voters cite trust in institutions as a top midterm theme.",
+      "axisLow": "Defer to presidential leadership on key fights",
+      "axisHigh": "Limit dark money; assert congressional checks"
+    }
+  ],
+  "stances": [
+    {
+      "candidateId": "paxton",
+      "issueId": "border",
+      "position": -2,
+      "summary": "As attorney general and Senate candidate, emphasizes hardline border enforcement; endorsed by the National Border Patrol Council and frames immigration crackdowns as a core priority.",
+      "sources": [
+        {
+          "title": "Senate race Q&A overview",
+          "publisher": "Texas Tribune",
+          "url": "https://www.texastribune.org/2026/10/13/talarico-paxton-texas-us-senate-2026-election-q-and-a/",
+          "date": "2026-10-13",
+          "type": "news"
+        },
+        {
+          "title": "Campaign issues",
+          "publisher": "Ken Paxton campaign",
+          "url": "https://www.kenpaxton.com/issues",
+          "date": "2026-10-01",
+          "type": "campaign"
+        }
+      ]
+    },
+    {
+      "candidateId": "talarico",
+      "issueId": "border",
+      "position": 1,
+      "summary": "Supports hiring more Border Patrol agents and immigration judges, modernized surveillance, focusing ICE on criminals/traffickers, pathways for long-term residents and DREAMers, and opposing a wall through Big Bend National Park.",
+      "sources": [
+        {
+          "title": "Immigration & Border Security",
+          "publisher": "James Talarico campaign",
+          "url": "https://jamestalarico.com/issue/immigration-border-security/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        },
+        {
+          "title": "Senate Q&A",
+          "publisher": "Texas Tribune",
+          "url": "https://www.texastribune.org/2026/10/13/talarico-paxton-texas-us-senate-2026-election-q-and-a/",
+          "date": "2026-10-13",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "candidateId": "paxton",
+      "issueId": "abortion",
+      "position": -2,
+      "summary": "Has enforced Texas abortion restrictions as AG, sued out-of-state providers sending abortion medication into Texas, and campaigns on defending the unborn; analysts say a Senate win would amplify federal anti-abortion efforts.",
+      "sources": [
+        {
+          "title": "Voters guide \u2014 abortion",
+          "publisher": "Guides.vote",
+          "url": "https://guides.vote/guide/2026-texas-us-senate-voters-guide/",
+          "date": "2026-10-01",
+          "type": "other"
+        },
+        {
+          "title": "Federal anti-abortion implications",
+          "publisher": "ProPublica",
+          "url": "https://www.propublica.org/article/ken-paxton-texas-abortion-senate",
+          "date": "2026-10-01",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "candidateId": "talarico",
+      "issueId": "abortion",
+      "position": 2,
+      "summary": "Pledges federal legislation to codify Roe v. Wade and protect contraception and IVF access; criticizes Texas\u2019s abortion ban.",
+      "sources": [
+        {
+          "title": "Issue stances",
+          "publisher": "BallotReady / campaign materials",
+          "url": "https://www.ballotready.org/people/james-talarico",
+          "date": "2026-10-01",
+          "type": "other"
+        },
+        {
+          "title": "Position summary",
+          "publisher": "Semblen",
+          "url": "https://semblen.com/people/james-talarico",
+          "date": "2026-10-01",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "candidateId": "paxton",
+      "issueId": "education",
+      "position": -1,
+      "summary": "Aligned with Republican critiques of so-called woke classroom policies; less detailed federal education platform than border/tax agenda in public Senate materials.",
+      "sources": [
+        {
+          "title": "Republican candidate overview",
+          "publisher": "The Prospector",
+          "url": "https://www.theprospectordaily.com/2026/10/20/2026-midterms-republican-candidates/",
+          "date": "2026-10-20",
+          "type": "news"
+        },
+        {
+          "title": "Campaign issues",
+          "publisher": "Ken Paxton campaign",
+          "url": "https://www.kenpaxton.com/issues",
+          "date": "2026-10-01",
+          "type": "campaign"
+        }
+      ]
+    },
+    {
+      "candidateId": "talarico",
+      "issueId": "education",
+      "position": 2,
+      "summary": "Former teacher who opposes private-school vouchers, supports universal Pre-K, teacher training/pay supports, school meals and counselors, and federal special-education oversight.",
+      "sources": [
+        {
+          "title": "Campaign issues",
+          "publisher": "Vote Talarico",
+          "url": "https://www.votetalarico.org/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        },
+        {
+          "title": "Education stances",
+          "publisher": "BallotReady",
+          "url": "https://www.ballotready.org/people/james-talarico",
+          "date": "2026-10-01",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "candidateId": "paxton",
+      "issueId": "economy",
+      "position": -2,
+      "summary": "Released an economic agenda with large new tax deductions, doubling the child tax credit, and permanently repealing the federal gas tax; emphasizes cutting spending and regulations.",
+      "sources": [
+        {
+          "title": "Paxton positions summary",
+          "publisher": "Smarter.Vote",
+          "url": "https://smarter.vote/races/tx-senate-2026/ken-paxton/",
+          "date": "2026-10-01",
+          "type": "other"
+        },
+        {
+          "title": "Campaign issues",
+          "publisher": "Ken Paxton campaign",
+          "url": "https://www.kenpaxton.com/issues",
+          "date": "2026-10-01",
+          "type": "campaign"
+        }
+      ]
+    },
+    {
+      "candidateId": "talarico",
+      "issueId": "economy",
+      "position": 2,
+      "summary": "Calls for repealing Trump-era tariffs he says raise grocery and consumer prices, and campaigns on lowering housing, grocery, and everyday costs for working families.",
+      "sources": [
+        {
+          "title": "Economy stances",
+          "publisher": "BallotReady",
+          "url": "https://www.ballotready.org/people/james-talarico",
+          "date": "2026-10-01",
+          "type": "other"
+        },
+        {
+          "title": "Campaign issues",
+          "publisher": "Vote Talarico",
+          "url": "https://www.votetalarico.org/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        }
+      ]
+    },
+    {
+      "candidateId": "paxton",
+      "issueId": "healthcare",
+      "position": -2,
+      "summary": "Led multi-state litigation seeking to overturn the Affordable Care Act as AG; Senate campaign aligns with MAHA themes targeting pharmaceutical and food industry practices.",
+      "sources": [
+        {
+          "title": "Healthcare positions",
+          "publisher": "Smarter.Vote",
+          "url": "https://smarter.vote/races/tx-senate-2026/ken-paxton/",
+          "date": "2026-10-01",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "candidateId": "talarico",
+      "issueId": "healthcare",
+      "position": 2,
+      "summary": "Campaigns on expanding access to quality, affordable health care so Texans are not bankrupted by illness.",
+      "sources": [
+        {
+          "title": "Campaign issues",
+          "publisher": "Vote Talarico",
+          "url": "https://www.votetalarico.org/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        }
+      ]
+    },
+    {
+      "candidateId": "paxton",
+      "issueId": "energy",
+      "position": -2,
+      "summary": "Supports expanded domestic energy production and deregulation; backs permanently repealing the federal gas tax and data-center rules that shift infrastructure costs while restricting Chinese tech in U.S. data centers.",
+      "sources": [
+        {
+          "title": "Energy costs coverage",
+          "publisher": "Texas Tribune / Capital & Main",
+          "url": "https://www.texastribune.org/2026/10/18/paxton-talarico-energy-prices-senate-race-texas/",
+          "date": "2026-10-18",
+          "type": "news"
+        },
+        {
+          "title": "Positions summary",
+          "publisher": "Smarter.Vote",
+          "url": "https://smarter.vote/races/tx-senate-2026/ken-paxton/",
+          "date": "2026-10-01",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "candidateId": "talarico",
+      "issueId": "energy",
+      "position": 1,
+      "summary": "Argues Texas should lead in clean energy jobs while also campaigning on lower consumer energy costs; opposes Big Bend wall construction that he says harms parks and local economies.",
+      "sources": [
+        {
+          "title": "Energy costs coverage",
+          "publisher": "Texas Tribune / Capital & Main",
+          "url": "https://www.texastribune.org/2026/10/18/paxton-talarico-energy-prices-senate-race-texas/",
+          "date": "2026-10-18",
+          "type": "news"
+        },
+        {
+          "title": "Campaign issues",
+          "publisher": "Vote Talarico",
+          "url": "https://www.votetalarico.org/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        }
+      ]
+    },
+    {
+      "candidateId": "paxton",
+      "issueId": "guns",
+      "position": -2,
+      "summary": "Supports expansive gun rights and opposes new federal firearm restrictions, consistent with his conservative legal and campaign record.",
+      "sources": [
+        {
+          "title": "Voters guide",
+          "publisher": "Guides.vote",
+          "url": "https://guides.vote/guide/2026-texas-us-senate-voters-guide/",
+          "date": "2026-10-01",
+          "type": "other"
+        },
+        {
+          "title": "Positions summary",
+          "publisher": "Smarter.Vote",
+          "url": "https://smarter.vote/races/tx-senate-2026/ken-paxton/",
+          "date": "2026-10-01",
+          "type": "other"
+        }
+      ]
+    },
+    {
+      "candidateId": "talarico",
+      "issueId": "guns",
+      "position": 1,
+      "summary": "Supports public-safety reforms while campaign materials emphasize community safety and justice reform; less of a single signature federal gun bill than on abortion/education\u2014summarized cautiously from campaign themes.",
+      "sources": [
+        {
+          "title": "Campaign issues",
+          "publisher": "Vote Talarico",
+          "url": "https://www.votetalarico.org/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        }
+      ]
+    },
+    {
+      "candidateId": "paxton",
+      "issueId": "democracy",
+      "position": -1,
+      "summary": "Generally defers to President Trump on major foreign and domestic fights; as AG pursued high-profile partisan litigation. Did not answer the Texas Tribune Senate questionnaire.",
+      "sources": [
+        {
+          "title": "Senate Q&A (Paxton non-response noted)",
+          "publisher": "Texas Tribune",
+          "url": "https://www.texastribune.org/2026/10/13/talarico-paxton-texas-us-senate-2026-election-q-and-a/",
+          "date": "2026-10-13",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "candidateId": "talarico",
+      "issueId": "democracy",
+      "position": 2,
+      "summary": "Campaigns against billionaire mega-donors and dark money, for transparent government, and for war-powers oversight reasserting Senate checks on the executive.",
+      "sources": [
+        {
+          "title": "Campaign issues",
+          "publisher": "Vote Talarico",
+          "url": "https://www.votetalarico.org/",
+          "date": "2026-10-01",
+          "type": "campaign"
+        },
+        {
+          "title": "Senate Q&A",
+          "publisher": "Texas Tribune",
+          "url": "https://www.texastribune.org/2026/10/13/talarico-paxton-texas-us-senate-2026-election-q-and-a/",
+          "date": "2026-10-13",
+          "type": "news"
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "issueId": "border",
+      "prompt": "Federal policy should pair border security with pathways to legal status and tighter limits on ICE tactics.",
+      "options": [
+        {
+          "label": "Strongly disagree",
+          "value": -2
+        },
+        {
+          "label": "Disagree",
+          "value": -1
+        },
+        {
+          "label": "Neutral / unsure",
+          "value": 0
+        },
+        {
+          "label": "Agree",
+          "value": 1
+        },
+        {
+          "label": "Strongly agree",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "issueId": "abortion",
+      "prompt": "Congress should codify Roe-style abortion protections nationwide.",
+      "options": [
+        {
+          "label": "Strongly disagree",
+          "value": -2
+        },
+        {
+          "label": "Disagree",
+          "value": -1
+        },
+        {
+          "label": "Neutral / unsure",
+          "value": 0
+        },
+        {
+          "label": "Agree",
+          "value": 1
+        },
+        {
+          "label": "Strongly agree",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "issueId": "education",
+      "prompt": "The federal government should reject voucher schemes and expand supports for public schools and Pre-K.",
+      "options": [
+        {
+          "label": "Strongly disagree",
+          "value": -2
+        },
+        {
+          "label": "Disagree",
+          "value": -1
+        },
+        {
+          "label": "Neutral / unsure",
+          "value": 0
+        },
+        {
+          "label": "Agree",
+          "value": 1
+        },
+        {
+          "label": "Strongly agree",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "issueId": "economy",
+      "prompt": "Congress should repeal recent tariffs and prioritize cost relief for working families over broad business deregulation.",
+      "options": [
+        {
+          "label": "Strongly disagree",
+          "value": -2
+        },
+        {
+          "label": "Disagree",
+          "value": -1
+        },
+        {
+          "label": "Neutral / unsure",
+          "value": 0
+        },
+        {
+          "label": "Agree",
+          "value": 1
+        },
+        {
+          "label": "Strongly agree",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "issueId": "healthcare",
+      "prompt": "Federal policy should expand affordable health coverage rather than dismantle the ACA.",
+      "options": [
+        {
+          "label": "Strongly disagree",
+          "value": -2
+        },
+        {
+          "label": "Disagree",
+          "value": -1
+        },
+        {
+          "label": "Neutral / unsure",
+          "value": 0
+        },
+        {
+          "label": "Agree",
+          "value": 1
+        },
+        {
+          "label": "Strongly agree",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "issueId": "energy",
+      "prompt": "Federal energy policy should accelerate clean energy while protecting consumers from rising bills.",
+      "options": [
+        {
+          "label": "Strongly disagree",
+          "value": -2
+        },
+        {
+          "label": "Disagree",
+          "value": -1
+        },
+        {
+          "label": "Neutral / unsure",
+          "value": 0
+        },
+        {
+          "label": "Agree",
+          "value": 1
+        },
+        {
+          "label": "Strongly agree",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "issueId": "guns",
+      "prompt": "Congress should pass stronger federal firearm safety rules.",
+      "options": [
+        {
+          "label": "Strongly disagree",
+          "value": -2
+        },
+        {
+          "label": "Disagree",
+          "value": -1
+        },
+        {
+          "label": "Neutral / unsure",
+          "value": 0
+        },
+        {
+          "label": "Agree",
+          "value": 1
+        },
+        {
+          "label": "Strongly agree",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "issueId": "democracy",
+      "prompt": "The Senate should curb dark money and more aggressively check executive power.",
+      "options": [
+        {
+          "label": "Strongly disagree",
+          "value": -2
+        },
+        {
+          "label": "Disagree",
+          "value": -1
+        },
+        {
+          "label": "Neutral / unsure",
+          "value": 0
+        },
+        {
+          "label": "Agree",
+          "value": 1
+        },
+        {
+          "label": "Strongly agree",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}
